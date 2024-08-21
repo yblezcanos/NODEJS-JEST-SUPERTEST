@@ -9,3 +9,6 @@ Testing demo with Jest and Supertest
 
 ### Install jest y supertest
 ``` npm i -D jest supertest ```
+
+### Run test in jest
+``` set NODE_OPTIONS=--experimental-vm-modules && npx jest ```
